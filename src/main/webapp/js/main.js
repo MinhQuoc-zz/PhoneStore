@@ -134,7 +134,7 @@ function loadFooter(){
       <div class=" text-center text-md-start mt-5">
         <div class="row mt-3">
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-            <h6 class="text-uppercase fw-bold mb-4"><i class="fa fa-mobile" style="font-size: 25px;"></i> SOCTMOBILE</h6>
+            <h6 class="text-uppercase fw-bold mb-4"><i class="fa fa-mobile" style="font-size: 25px;"></i> Hoàng Hà Mobile</h6>
             <p>
               Chúng tôi cung cấp các sản phẩm điện thoại, phụ kiện chính hãng, chất lượng cao đến người tiêu dùng
             </p>
@@ -142,9 +142,9 @@ function loadFooter(){
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
             <h6 class="text-uppercase fw-bold mb-4">Về chúng tôi</h6>
             <p><a href="#!" class="text-reset">Hotline: 012345678</a></p>
-            <p><a href="#!" class="text-reset">Email: soctmobile@gmail.com</a></p>
-            <p><a href="#!" class="text-reset">Địa chỉ cs1: Số 1, đại cồ việt, Hai Bà Trưng, Hà nội</a></p>
-            <p><a href="#!" class="text-reset">Địa chỉ cs2: Số 1, đại cồ việt, Hai Bà Trưng, Hà nội</a></p>
+            <p><a href="#!" class="text-reset">Email: hoanghamobile@gmail.com</a></p>
+            <p><a href="#!" class="text-reset">Địa chỉ cs1: Số 323, đường Hồ Tùng Mậu, Cầu Diễn, Hà Nội</a></p>
+            <p><a href="#!" class="text-reset">Địa chỉ cs2: Số 12, đường Xuân Thủy, Cầu Giấy, Hà nội</a></p>
           </div>
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
             <h6 class="text-uppercase fw-bold mb-4">Hỗ trợ khách hàng</h6>

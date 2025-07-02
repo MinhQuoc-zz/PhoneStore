@@ -24,7 +24,7 @@ public class MailService {
     }
 
 
-    final static String username = "ledinhson291003@gmail.com";
+    final static String username = "minhquoctuhoclt@gmail.com";
 
     @Async
     public void sendEmail(String to, String subject, String content, boolean isMultipart, boolean isHtml) {

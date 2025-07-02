@@ -17,6 +17,8 @@ import java.sql.Timestamp;
 import java.util.*;
 
 @Controller
+
+//Controller nhận và gửi tin nhắn
 public class MessageController {
 
     @Autowired
